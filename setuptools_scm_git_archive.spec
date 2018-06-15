@@ -14,7 +14,7 @@ Requires: setuptools_scm_git_archive-python3
 Requires: setuptools_scm_git_archive-python
 BuildRequires : pbr
 BuildRequires : pip
-BuildRequires : python-dev
+
 BuildRequires : python3-dev
 BuildRequires : setuptools
 BuildRequires : setuptools_scm
