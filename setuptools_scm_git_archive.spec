@@ -4,7 +4,7 @@
 #
 Name     : setuptools_scm_git_archive
 Version  : 1.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/18/00/754438f629dfff1ecdbb31c8c23effe8bcfdbf65dbaf1cbed58eab286d82/setuptools_scm_git_archive-1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/18/00/754438f629dfff1ecdbb31c8c23effe8bcfdbf65dbaf1cbed58eab286d82/setuptools_scm_git_archive-1.0.tar.gz
 Summary  : setuptools_scm plugin for git archives
