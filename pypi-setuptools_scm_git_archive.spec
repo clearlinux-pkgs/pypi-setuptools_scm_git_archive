@@ -4,7 +4,7 @@
 #
 Name     : pypi-setuptools_scm_git_archive
 Version  : 1.1
-Release  : 19
+Release  : 20
 URL      : https://files.pythonhosted.org/packages/7e/2c/0c15b29a1b5940250bfdc4a4f53272e35cd7cf8a34159291b6b4ec9eb291/setuptools_scm_git_archive-1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7e/2c/0c15b29a1b5940250bfdc4a4f53272e35cd7cf8a34159291b6b4ec9eb291/setuptools_scm_git_archive-1.1.tar.gz
 Summary  : setuptools_scm plugin for git archives
@@ -15,7 +15,6 @@ Requires: pypi-setuptools_scm_git_archive-python = %{version}-%{release}
 Requires: pypi-setuptools_scm_git_archive-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
 BuildRequires : pypi(setuptools_scm)
-BuildRequires : setuptools_scm
 
 %description
 that adds support for git archives (for example the ones GitHub automatically
@@ -65,7 +64,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641577788
+export SOURCE_DATE_EPOCH=1642463828
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
