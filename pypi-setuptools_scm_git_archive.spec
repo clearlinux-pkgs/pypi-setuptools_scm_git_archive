@@ -4,7 +4,7 @@
 #
 Name     : pypi-setuptools_scm_git_archive
 Version  : 1.4
-Release  : 24
+Release  : 25
 URL      : https://files.pythonhosted.org/packages/69/5f/7135eec07395c51d3dd6899251b277405ecc2f8f7a80ef80a483e3c5a2bd/setuptools_scm_git_archive-1.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/69/5f/7135eec07395c51d3dd6899251b277405ecc2f8f7a80ef80a483e3c5a2bd/setuptools_scm_git_archive-1.4.tar.gz
 Summary  : setuptools_scm plugin for git archives
